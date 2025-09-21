@@ -19,7 +19,7 @@ pdfplumber==0.10.3
 
 # AI/ML - Fixed versions
 openai>=1.6.1,<2.0.0
-langchain==0.0.340
+langchain==0.2.5
 langchain-openai==0.0.2
 sentence-transformers==2.2.2
 huggingface_hub==0.16.4
